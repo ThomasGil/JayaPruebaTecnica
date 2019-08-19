@@ -1,0 +1,28 @@
+{
+  "name": "pruebathomasgil",
+  "version": "1.0.0",
+  "description": "Prueba tecnica Thomas Gil en vuejs y nodejs para Jaya",
+  "author": "Thomas Gil",
+  "scripts": {
+    "dev": "nodemon back/server.js",
+    "run": "node back/server.js"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "@babel/polyfill": "^7.4.4",
+    "@mdi/font": "^3.6.95",
+    "axios": "^0.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "firebase": "^6.4.0",
+    "firebase-admin": "^8.3.0",
+    "request": "^2.88.0",
+    "roboto-fontface": "*",
+    "vuetify": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1",
+    "vue-cli-plugin-vuetify": "^0.6.3"
+  },
+  "license": "MIT"
+}
