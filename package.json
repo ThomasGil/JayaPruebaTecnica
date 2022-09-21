@@ -18,7 +18,7 @@
     "firebase-admin": "^8.3.0",
     "request": "^2.88.0",
     "roboto-fontface": "*",
-    "vuetify": "^2.0.0"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "nodemon": "^1.19.1",
